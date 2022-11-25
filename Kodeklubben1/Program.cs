@@ -16,7 +16,7 @@ namespace Kodeklubben1
         static void Oppgave6()
         {
            
-            Console.WriteLine();
+            Console.WriteLine();//hei
         }
     }
 
